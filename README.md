@@ -3,7 +3,7 @@
 ### 👥 Equipe (Colaboradores)
 > * [Caio](https://github.com/Pixel-Caio)
 > * [Daniel](https://github.com/Danmax1331)
-> * [Paulo](https://github.com/PaulinBacana)
+> * [Paulo](https://github.com/corvoz4)
 ### 📖 Descrição do Projeto.
 * Qual problema ele resolve?
    * O projeto auxilia a memorização, a coordenação motora, e engaja o usuário a testar seus limites frequentemente.

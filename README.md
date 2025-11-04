@@ -1,9 +1,9 @@
 # 🤖 [Genius] 
   Genius é um jogo de memorização, principalmente ativando a memória de curto prazo, onde o jogador é apresentado uma sequência que há de repetir, a cada partida a fazendo mais longa. 
 ### 👥 Equipe (Colaboradores)
-> * [Caio](https.github.com/Pixel-Caio)
-> * [Daniel](https.github.com/Danmax1331)
-> * [Paulo](https.github.com/PaulinBacana)
+> * [Caio](https://github.com/Pixel-Caio)
+> * [Daniel](https://github.com/Danmax1331)
+> * [Paulo](https://github.com/PaulinBacana)
 ### 📖 Descrição do Projeto.
 * Qual problema ele resolve?
    * O projeto auxilia a memorização, a coordenação motora, e engaja o usuário a testar seus limites frequentemente.

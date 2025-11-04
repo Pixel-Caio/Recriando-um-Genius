@@ -10,7 +10,9 @@
 > * Qual era o desafio da Semana Industrial?
 >   * Era criar um jogo eletrônico, o maior ou menor que seja, e apresentá-lo.
 > * Como ele funciona (visão geral)?
+>   * A programação gera uma sequência de números, variando de 0 a 4, cada número condizendo com um led, essa sequência é apresentada e o usuário deve repetí-la.
 > * Quais tecnologias (hardware e software) foram centrais?
+>   * Arduino IDE, Display 16x2, Botões e LEDs e o uso de USB-C ao contrário da entrada especial do Arduino. 
 ### 🔧 Hardware (Componentes Utilizados) Lista de todos os componentes físicos necessários para montar o projeto. 
 * **Controlador:** 1x Arduino Uno R3 (ou Raspberry Pi, ESP32, etc.)
 * **Sensores:** 1x Sensor Ultrassônico HC-SR04 * 2x Sensores de Fim de Curso *

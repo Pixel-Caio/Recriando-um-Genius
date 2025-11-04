@@ -1,12 +1,12 @@
-# 🤖 [Nome do Projeto - Ex: Tetris, Tapete de Dança] 
-> Um breve parágrafo (1-2 linhas) resumindo o que o projeto faz. 
-> Ex: "Projeto desenvolvido para a Semana Industrial 2025, focado no controle de um braço robótico de 3 eixos para simulação de uma linha de montagem."
+# 🤖 [Genius] 
+> Genius é um jogo de memorização, principalmente ativando a memória de curto prazo, onde o jogador é apresentado uma sequência que há de repetir, a cada partida a fazendo mais longa. 
 ### 👥 Equipe (Colaboradores)
-> * [Nome do Aluno 1](https.github.com/usuario-github-1)
-> * [Nome do Aluno 2](https.github.com/usuario-github-2)
-> * [Nome do Aluno 3](https.github.com/usuario-github-3)
-### 📖 Descrição do Projeto Aqui vocês devem detalhar melhor o projeto.
+> * [Caio](https.github.com/Pixel-Caio)
+> * [Daniel](https.github.com/Danmax1331)
+> * [Paulo](https.github.com/PaulinBacana)
+### 📖 Descrição do Projeto.
 > * Qual problema ele resolve?
+> * 
 > * Qual era o desafio da Semana Industrial?
 > * Como ele funciona (visão geral)?
 > * Quais tecnologias (hardware e software) foram centrais?

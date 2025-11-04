@@ -26,12 +26,15 @@
 * **Bibliotecas (Libraries):**     * `Wire.h` (Habilita a comunicação do módulo I2C por meio do A4 e A5)     * `LiquidCrystal_I2C.h` (Para o Display LCD I2C)     
 <img src="imagens/imagem do diagrama.png" width="600px" alt="Imagem do projeto montado no Tinkercad" />
 <img src="imagens/esquema eletrico.png" width="600px" alt="Esquema elétrico do projeto" />
+
 ### ⚙️ Instalação e Montagem Passo a Passo
 1.  **Montagem:** Siga o esquema elétrico acima para conectar todos os componentes.
 2.  **Bibliotecas:** Abra a Arduino IDE, vá em "Sketch" > "Include Library" > "Manage Libraries" e instale a `Wire.h` e `LiquidCrystal_I2C.h`.
 3.  **Upload do Código:**     * Conecte o Arduino ao computador.     * Abra o arquivo `/codigo-arduino/Genius.ino`.     * Selecione a Placa (Arduino Uno) e a Porta COM correta.     * Clique em "Upload".
+
 ### ▶️ Como Usar Depois de montado e programado, como o projeto funciona?
 1.  Ligue a fonte de alimentação externa.
 2.  O visor irá acender, mostrar a fase atual e então o jogo irá começar assim que um dos LEDs piscar um única vez.
 ### 🎥 Vídeo/GIF do Projeto em Ação 
-![Texto alternativo do GIF](/videos/Apresentacao do projeto.mp4)
+https://github.com/user-attachments/assets/4dbf020a-20d2-46ab-b813-76ad44d3775e
+

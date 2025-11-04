@@ -6,8 +6,9 @@
 > * [Paulo](https.github.com/PaulinBacana)
 ### 📖 Descrição do Projeto.
 > * Qual problema ele resolve?
-> * 
+>   * O projeto auxilia a memorização, a coordenação motora, e engaja o usuário a testar seus limites frequentemente.
 > * Qual era o desafio da Semana Industrial?
+>   * Era criar um jogo eletrônico, o maior ou menor que seja, e apresentá-lo.
 > * Como ele funciona (visão geral)?
 > * Quais tecnologias (hardware e software) foram centrais?
 ### 🔧 Hardware (Componentes Utilizados) Lista de todos os componentes físicos necessários para montar o projeto. 

@@ -14,10 +14,10 @@
 > * Quais tecnologias (hardware e software) foram centrais?
 >   * Arduino IDE, Display 16x2, Botões e LEDs e o uso de USB-C ao contrário da entrada especial do Arduino. 
 ### 🔧 Hardware (Componentes Utilizados) Lista de todos os componentes físicos necessários para montar o projeto. 
-* **Controlador:** 1x Arduino Uno R3 (ou Raspberry Pi, ESP32, etc.)
-* **Sensores:** 1x Sensor Ultrassônico HC-SR04 * 2x Sensores de Fim de Curso *
-* **Atuadores:**     * 3x Servo Motores MG996R (Eixo X, Y, Garra)     * 1x Motor de Passo NEMA 17 *
-* **Outros:**     * 1x Protoboard     * Jumpers (Macho-Macho, Macho-Fêmea)     * Fonte de alimentação externa 5V/2A     * Peças 3D (disponibilizar o .STL se possível)
+* **Controlador:** 1x Arduino Uno R3
+* **Sensores:** 4x Botões * 2x Sensores de Fim de Curso *
+* **Atuadores:**     * 4x LEDs     * 1x Display LCD I2C 16x2 
+* **Outros:**     * 1x Protoboard     * Jumpers (Macho-Macho, Macho-Fêmea)     * Fonte de alimentação externa 5V/2A     * Piezo  * Resistores de 220 Ohms 
 ### 💻 Software e Dependências O que é necessário para rodar o código? 
 * **Firmware/Código:**
 * O código principal está na pasta `/codigo-arduino/`. <o diretório do seu github onde você disponibilizou o código
